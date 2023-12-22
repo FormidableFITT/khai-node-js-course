@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61d95188-1108-4797-85b7-f9f9655e0f3f" name="Changes" comment="xc cxc">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_12_2023_21_19__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_12_2023_21_19__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_12_2023_21_19__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_12_2023_21_19__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="feature/06-express-server" />
+                    <option name="lastUsedInstant" value="1703274091" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="feature/05-express-server" />
                     <option name="lastUsedInstant" value="1703272899" />
                   </RecentBranch>
@@ -60,10 +67,6 @@
                   <RecentBranch>
                     <option name="branchName" value="feature/ci-cd" />
                     <option name="lastUsedInstant" value="1702937114" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1702933937" />
                   </RecentBranch>
                 </list>
               </option>
